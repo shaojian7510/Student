@@ -5,4 +5,5 @@ public class Teacher{
 	public List<String> getAll(){
 		return new ArrayList<>();
 	}
+
 }
